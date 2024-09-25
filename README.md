@@ -1,0 +1,1 @@
+A C++ application that allows users to manage a library by adding books, viewing available books, and borrowing or returning them. The system utilizes classes for encapsulation, file handling for data persistence, and vectors for dynamic book management. It provides a simple text-based menu interface for user interactions.
